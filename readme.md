@@ -1,6 +1,6 @@
-# RAG Pipeline Search Tool 🔍
+# LLM Search Tool 🔍
 
-A powerful Retrieval Augmented Generation (RAG) search assistant that combines web search, content analysis, and AI-powered summarization to provide comprehensive answers to user queries. Built with Streamlit, OpenAI/Ollama, and modern async Python.
+A powerful LLM search assistant that combines web search, content analysis, and AI-powered summarization to provide comprehensive answers to user queries. Built with Streamlit, OpenAI/Ollama, and modern async Python.
 
 ## 🌟 Features
 
