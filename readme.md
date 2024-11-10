@@ -175,3 +175,12 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - Add export functionality for search results
 - Enhance source filtering and ranking
 - Add support for different language models
+
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/eec78146-92d6-4baa-b884-0afd0cf4a4c2)
+![image](https://github.com/user-attachments/assets/953b3a08-4d1e-466f-a0cd-a9dd0d09bc29)
+![image](https://github.com/user-attachments/assets/e713b118-2b3a-408c-b6a1-ad87a2f5bd5f)
+![image](https://github.com/user-attachments/assets/121d580e-119b-454b-8390-3b492f7088ff)
+
+
