@@ -118,7 +118,7 @@ class RAGPipeline:
                 urls = []
                 for result in soup.select('.result__url'):
                     href = result.get('href')
-                    if href and len(urls) < 5:
+                    if href and len(urls) < 2: # take top N number of URLs
                         urls.append(href)
                 
                 return urls[:5]
